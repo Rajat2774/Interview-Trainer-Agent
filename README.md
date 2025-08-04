@@ -33,7 +33,7 @@ This makes the agent capable of giving **context-aware**, **personalized** prepa
 | 🛠️ Agent Framework      | IBM watsonx Agent Lab (Beta)                      |
 | 🔍 LLMs Used            | `mistral-large`, `llama-3-70b-instruct`          |
 | 🧠 Architecture         | ReAct (Reason + Act) + Retrieval-Augmented Generation |
-| 🗃️ Knowledge Base Format | `mixed_interview_qa_large.docx`                  |
+| 🗃️ Knowledge Base Format | `Interview Qna Plaintext.docx`                  |
 
 ---
 
