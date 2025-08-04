@@ -31,7 +31,7 @@ This makes the agent capable of giving **context-aware**, **personalized** prepa
 | ☁️ Cloud Platform       | IBM Cloud Lite                                   |
 | 🧠 AI Hub               | IBM watsonx.ai                                   |
 | 🛠️ Agent Framework      | IBM watsonx Agent Lab (Beta)                      |
-| 🔍 LLMs Used            | `mistral-large`, `llama-3-70b-instruct`          |
+| 🔍 LLMs Used            | `mistral-large`          |
 | 🧠 Architecture         | ReAct (Reason + Act) + Retrieval-Augmented Generation |
 | 🗃️ Knowledge Base Format | `Interview Qna Plaintext.docx`                  |
 
