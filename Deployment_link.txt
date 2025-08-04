@@ -1,0 +1,4 @@
+Public Endpoints:
+https://us-south.ml.cloud.ibm.com/ml/v4/deployments/188d993b-52d8-40bc-a529-31727a5125f7/ai_service?version=2021-05-01
+
+To access them, you must include an authentication token (an IAM token) in your request header. Simply pasting the URL into a browser doesn't include this token, so the IBM Cloud server rejects the request, usually with a "401 Unauthorized" or "403 Forbidden" error.
